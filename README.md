@@ -1,5 +1,5 @@
 ## CNN Implementation for MNIST Digit Recognition
-This project implements a Convolutional Neural Network (CNN) for recognizing handwritten digits from the MNIST dataset. The MNIST dataset is a widely used benchmark for image recognition tasks, consisting of 70,000 grayscale images of handwritten digits from 0 to 9.
+This project implements a Convolutional Neural Network (CNN) for recognizing handwritten digits from the MNIST dataset. The MNIST dataset is a widely used benchmark for image recognition tasks, consisting of grayscale images of handwritten digits from 0 to 9.
 
 ### Project Overview
 The main objectives of this project are:
